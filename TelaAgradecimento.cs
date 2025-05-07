@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Pro_Solution
 {
-    public partial class FormularioPerguntas: Form
+    public partial class TelaAgradecimento: Form
     {
-        public FormularioPerguntas()
+        public TelaAgradecimento()
         {
             InitializeComponent();
         }
